@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    color: white;
+}
+.logo{
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+.titre{
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+    line-height: 80px;
+}
+.button{
+    display: flex;
+    margin: 0 auto;
+    width: fit-content;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+}
+a{
+    text-decoration: none;
+}
+body p{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+
